@@ -1,0 +1,153 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+/* head */
+.header{
+    border-top: 5px solid #81B400;
+}
+.header .col-sm-5 .social{
+    background-color: #81B400;
+    height: 50px;
+    display: inline-block;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.my-list-inline{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.my-list-inline li{
+    float: left;
+}
+.my-list-inline.social li a{
+    display: inline-block;
+    margin: 1px 7px;
+    background: #000;
+    padding: 3px 5px;
+    border-radius: 55%;
+    text-decoration: none;
+}
+
+.my-list-inline.social li{
+    float: right;
+}
+.my-list-inline.social li a:hover{
+    background:#00ACEE !important;
+}
+.my-list-inline{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.my-list-inline li{
+    float: left;
+}
+.my-list-inline.society li a{
+    display: inline-block;
+    margin: 1px 7px;
+    background: #ffffff;
+    padding: 3px 5px;
+    text-decoration: none;
+}
+
+.my-list-inline.society li{
+    float: right;
+}
+
+
+/* horizontal */
+.bg{
+    background-color: #81B400;
+}
+
+.d-flex{
+    padding-top: 15px;
+   
+}
+.d-flex input{
+    border-radius: 10px;
+}
+
+
+
+.my-list-inline.soci li{
+    
+    float: left;
+}
+li a{
+    color: #81B400 !important;
+}
+.my-list-inline.soci li a:hover{
+    color: black !important;
+}
+.my-list-inline.soci li a{
+    color: #ffffff !important;
+}
+.my-list-inline{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.my-list-inline li{
+    float: left;
+}
+.my-list-inline.soci li a{
+    display: inline-block;
+    margin: 2px 7px;
+    padding: 3px 5px;
+    text-decoration: none;
+}
+
+.my-list-inline.socie li{
+    float: left;
+}
+
+.A{
+    width: 13%;
+    text-align: center;
+}
+.copy{
+    
+    clear: both;
+    text-align: center;
+    color: #000;
+    background-color: #81B400;
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-title.moj{
+    margin: 0;
+    padding: 0;
+    color:#81B400;
+}
+.btn{
+    margin: 0;
+    padding: 0;
+    color: #81B400;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.link{
+    list-style: none;
+}
+.link a{
+text-decoration: none;
+color: #ffffff !important;
+}
+.contract a{
+    text-decoration: none;
+color: #ffffff !important;
+}
+
+.submit:hover{
+color: #ffffff !important;
+transform: scale(1.2 !important);
+}
+.b{
+    width: 100%;
+}
